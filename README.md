@@ -48,3 +48,8 @@ Hızlı Erişim: Kişisel bilgileri düzenleme ve hastane duyurularını görme 
 Hastane duyuruları, tüm personelin görüntüleyebilmesi için sistemde yer almaktadır.
 Sekreterler, duyuru ekleyebilir, güncelleyebilir veya silebilir.
 ![9](https://github.com/user-attachments/assets/4854cf42-3fd2-414b-ad53-5d51f6ad70ad)
+
+# 7. Veri Tabanı Yönetimi
+Bu uygulamada veri tabanı olarak Microsoft SQL Server Management Studio kullanılmaktadır.
+Kullanıcılar tarafından girilen tüm veriler, bu veri tabanına kaydedilmekte ve yönetilmektedir.
+Randevu, hasta, doktor ve duyuru gibi bilgiler SQL Server üzerinde saklanarak verilerin güvenli ve hızlı erişimine olanak tanınmaktadır.
